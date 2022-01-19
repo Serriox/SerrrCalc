@@ -1,1 +1,2 @@
 # SerrrCalc
+Simple calculator
